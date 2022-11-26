@@ -1,3 +1,1 @@
->> Phurit (Phu): Chapter 0 - Course Introduction & Set up Environment
-
->> Phurit (Phu): Chapter 2 - Basic NPM & Basic Modern Javascript
+Phurit (Phu): Chapter 3 - Basic Node.js & Express.js
